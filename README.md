@@ -8,7 +8,7 @@ The goal of this project was to build the back end for an e-commerce site. Worki
 2. When entering schema and seed commands, the development database is created and seeded with test data.
 3. When the application is started, the server is started and the sequelize models are synced to the MYSQL database.
 4. API GET routes for categories, products, and tags display information in a json format when accessed.
-5. Using API POST, PUT, and DELETE routes in Insomnia Core updates the information in thed database.
+5. Using API POST, PUT, and DELETE routes in Insomnia Core updates the information in the database.
 
 ## Links
 [Link to Demo Video](https://drive.google.com/file/d/1kZ9TB_vfHlryX79Jole2yNBiV1aRkw4h/view) </br>
